@@ -1,1 +1,7 @@
 this is a file named file 1.
+name = "Lupe"
+byear = 1952
+cyear = 2026
+age = cyear - byear
+
+print ("My name is " + namE + " AND i'M)
